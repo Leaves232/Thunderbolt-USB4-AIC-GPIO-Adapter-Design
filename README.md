@@ -1,5 +1,8 @@
 # Thunderbolt-USB4-AIC-GPIO-Adapter-Design
-This design enables support for Thunderbolt 4, USB4, and Thunderbolt 5 add-in cards from MSI, Gigabyte, and ASRock on ASUS motherboards. Please be sure to consult the instructions in the Readme regarding actual compatibility and usability.
+This design enables support for Thunderbolt 4, USB4, and Thunderbolt 5 add-in cards from MSI and Gigabyte on ASUS motherboards. Please be sure to consult the instructions in the Readme regarding actual compatibility and usability.
+<p align="center">
+  <img src="images/exec-84f9440a-8903-4441-9493-6a6fcf1b4f29.png" alt="Thunderbolt GPIO Adapter image" width="600">
+</p>
 
 ## Before You Begin
 
